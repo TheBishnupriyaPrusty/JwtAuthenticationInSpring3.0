@@ -1,0 +1,12 @@
+fileignoreconfig:
+- filename: src/main/java/com/authentication/jwt/controller/AuthController.java
+  checksum: dda1cf39550ba5f77d5fe8a85bc4b202d23f56ee73b7fc105025696f162c2b24
+- filename: src/main/java/com/authentication/jwt/config/AppConfig.java
+  checksum: 19202087de28b65ba94d6ae9a7cf043b5d21d2e9003927281f84b32f15b7823b
+- filename: src/main/java/com/authentication/jwt/security/JwtHelper.java
+  checksum: 8352db472de19b68e698832557ea30dc41d34b1e59f8754ac4cc3bdecb73aa0d
+- filename: src/main/java/com/authentication/jwt/security/JwtAuthenticationFilter.java
+  checksum: 4b69c8aea0f7580c5a9607566e373da23f2e33475d04582230db38274c775395
+- filename: mvnw
+  checksum: 9a0e968807e91279b4856750466e5aab9eeac7305e4ec8463979cb7cb0525f67
+version: ""
